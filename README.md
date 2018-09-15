@@ -1,9 +1,10 @@
-# Hello
+# Understanding the P-value
 
-This a fun repo to make a silly website out of to introduce yourself.
+The P-value is one important yet often confusing concept in statistics, today I will be delving into it using layman's terms.
 
-My name is Yenan. I like to search for funny gifs and memes in my spare time. Here is one of my new favorites:
+Before doing any hardcore statistics gymnastics, let's consider an example: 
 
-![](https://media.giphy.com/media/xTiN0CNHgoRf1Ha7CM/giphy.gif)
+as a "blameless" human being, I consistently maintain that I almost always arrive in class on time, of course, with the exception of that "one" time where I am unfashionably late due to the rain and "uncontrollable factors". Seeing me coming to class late again, my statistics professor challenged my firm-held mental belief and said I always come to class around 10 min late. To that I said, “yes, however, even someone who consistently show up on time can be late once or twice, you cannot just use this one time I’m late to reject my perfect stellar record!” 
 
-*[source](https://giphy.com/gifs/jerseydemic-xTiN0CNHgoRf1Ha7CM)*
+
+
